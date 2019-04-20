@@ -10,14 +10,14 @@ namespace DrinkVendingMachine
     {
         static void Main(string[] args)
         {
-            var drinkMachine = new DrinkMachine();
-            while (!drinkMachine.checkTotal())
+            var coffeeMachine = new CoffeeMachine();
+            while (!coffeeMachine.checkTotal())
             {
                 Console.WriteLine("Please enter coin (50, 100, 200, 500)");
-                drinkMachine.DepositCoin(Convert.ToInt32(Console.ReadLine()));
+                coffeeMachine.DepositCoin(Convert.ToInt32(Console.ReadLine()));
             }
 
-            drinkMachine.DisplayDrinkSelections();
+            coffeeMachine.DisplayDrinkSelections();
 
             Console.ReadLine();
         }

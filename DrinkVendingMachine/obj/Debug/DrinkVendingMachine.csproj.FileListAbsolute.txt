@@ -1,7 +1,7 @@
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\bin\Debug\DrinkVendingMachine.exe.config
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\bin\Debug\DrinkVendingMachine.exe
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\bin\Debug\DrinkVendingMachine.pdb
-C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\obj\Debug\DrinkVendingMachine.csprojAssemblyReference.cache
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\obj\Debug\DrinkVendingMachine.csproj.CoreCompileInputs.cache
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\obj\Debug\DrinkVendingMachine.exe
 C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\obj\Debug\DrinkVendingMachine.pdb
+C:\Users\Varujan Tribunyan\Desktop\DrinkVendingMachine\DrinkVendingMachine\obj\Debug\DrinkVendingMachine.csprojAssemblyReference.cache

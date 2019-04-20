@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace DrinkVendingMachine
 {
-    public class DrinkMachine
+    public class CoffeeMachine
     {
-        const int CostOfDrink = 150;
+        const int CostOfCoffee = 150;
         public int RunningTotal { get; set; }
 
-        public DrinkMachine()
+        public CoffeeMachine()
         {
             RunningTotal = 0;
         }
@@ -43,7 +43,7 @@ namespace DrinkVendingMachine
 
         public bool checkTotal()
         {
-            if (RunningTotal >= CostOfDrink)
+            if (RunningTotal >= CostOfCoffee)
                 return true;
             else
                 return false;
@@ -137,8 +137,8 @@ namespace DrinkVendingMachine
 
         private void ReturnChange()
         {
-            if (RunningTotal > CostOfDrink)
-                Console.WriteLine("Your Change is {0:C}",RunningTotal - CostOfDrink);
+            if (RunningTotal > CostOfCoffee)
+                Console.WriteLine("Your Change is {0:C}",RunningTotal - CostOfCoffee);
         }
     }
 }
